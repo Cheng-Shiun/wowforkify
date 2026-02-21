@@ -1,0 +1,30 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "A Recipe application for practice",
+  "license": "ISC",
+  "author": "Torson Yang",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "core-js": "^3.48.0",
+    "fractional": "^1.0.0",
+    "fracty": "^1.0.12",
+    "parcel": "^2.16.4",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheng-Shiun/wowforkify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cheng-Shiun/wowforkify/issues"
+  },
+  "homepage": "https://github.com/Cheng-Shiun/wowforkify#readme"
+}

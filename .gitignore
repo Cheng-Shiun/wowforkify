@@ -1,0 +1,8 @@
+# 依賴套件
+node_modules/
+
+# 編譯後的成品 (Webpack 產生的)
+dist/
+
+# parcel-cache
+.parcel-cache/
