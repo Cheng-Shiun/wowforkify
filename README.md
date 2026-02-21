@@ -44,5 +44,5 @@ The goal of this project is to build a real-world recipe application while maste
 
 1. **Clone the repo**
    ```bash
-   git clone [https://github.com/Cheng-Shiun/wowforkify.git](https://github.com/Cheng-Shiun/wowforkify.git)
+   git clone https://github.com/Cheng-Shiun/wowforkify.git
    ```
