@@ -5,9 +5,10 @@
   "license": "ISC",
   "author": "Torson Yang",
   "type": "commonjs",
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --dist-dir ./dist --no-optimize"
   },
   "dependencies": {
     "core-js": "^3.48.0",
@@ -17,7 +18,8 @@
     "regenerator-runtime": "^0.14.1"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.16.4"
+    "@parcel/transformer-sass": "^2.16.4",
+    "svgo": "^3.0.5"
   },
   "repository": {
     "type": "git",
